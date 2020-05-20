@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">B10709053_HW2</string>
+    <string-array name="color_options">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+    <string-array name="color_options_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
